@@ -297,7 +297,7 @@
         "key": "2D485E384A7ABE47FD44F58A954301B6",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_4.Text",
         "id": "Hard",
-        "str": "Сложно"
+        "str": "Сложный"
     },
     {
         "key": "2DEA68154A30209AA0698497E47F9DA9",
@@ -939,7 +939,7 @@
         "key": "92BFF30E4E114DDBBE7791B9CC9B70A5",
         "location": "/Game/UI/gameMenu.gameMenu_C:WidgetTree.TextBlock_8.Text",
         "id": "Easy",
-        "str": "Легко"
+        "str": "Легкий"
     },
     {
         "key": "9432768D4222957489019C86BD251CA3",
